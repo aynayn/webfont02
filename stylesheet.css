@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Myanmar Ponenyet';
+    src: url('MyanmarPonenyet.woff2') format('woff2'),
+        url('MyanmarPonenyet.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Sagar';
+    src: url('MyanmarSagar.woff2') format('woff2'),
+        url('MyanmarSagar.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Sans Pro';
+    src: url('MyanmarSansPro.woff2') format('woff2'),
+        url('MyanmarSansPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Sabae';
+    src: url('MyanmarSabae.woff2') format('woff2'),
+        url('MyanmarSabae.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Square';
+    src: url('MyanmarSquare.woff2') format('woff2'),
+        url('MyanmarSquare.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Tagu';
+    src: url('MyanmarTagu.woff2') format('woff2'),
+        url('MyanmarTagu.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Head One';
+    src: url('MyanmarHeadOne.woff2') format('woff2'),
+        url('MyanmarHeadOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Head One';
+    src: url('MyanmarHeadOne.woff2') format('woff2'),
+        url('MyanmarHeadOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Square';
+    src: url('MyanmarSquareLight.woff2') format('woff2'),
+        url('MyanmarSquareLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Taungyi';
+    src: url('MyanmarTaungyi.woff2') format('woff2'),
+        url('MyanmarTaungyi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myanmar Yinmar';
+    src: url('MyanmarYinmar.woff2') format('woff2'),
+        url('MyanmarYinmar.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Padauk';
+    src: url('Padauk-Zawgyi.woff2') format('woff2'),
+        url('Padauk-Zawgyi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Masterpiece Uni Round';
+    src: url('MasterpieceUniRound.woff2') format('woff2'),
+        url('MasterpieceUniRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PangLong';
+    src: url('PangLong.woff2') format('woff2'),
+        url('PangLong.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Parabaik';
+    src: url('Parabaik.woff2') format('woff2'),
+        url('Parabaik.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Parabaik';
+    src: url('Parabaik.woff2') format('woff2'),
+        url('Parabaik.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ThanLwin';
+    src: url('ThanLwin.woff2') format('woff2'),
+        url('ThanLwin.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WinUni Innwa';
+    src: url('WinUniInnwa.woff2') format('woff2'),
+        url('WinUniInnwa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TharLon';
+    src: url('TharLon.woff2') format('woff2'),
+        url('TharLon.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yunghkio';
+    src: url('Yunghkio.woff2') format('woff2'),
+        url('Yunghkio.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
